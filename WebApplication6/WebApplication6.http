@@ -1,0 +1,6 @@
+@WebApplication6_HostAddress = http://localhost:5032
+
+GET {{WebApplication6_HostAddress}}/GetUsers/
+Accept: application/json
+
+###
